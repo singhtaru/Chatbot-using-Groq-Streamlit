@@ -1,0 +1,24 @@
+[33mcommit d4cb791ec8d5a8d8b865b1840ce3db1fcdd68406[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: c386dfc bebc861
+Author: Taru <taru93858@gmail.com>
+Date:   Wed Jun 18 20:06:10 2025 +0530
+
+    Merge branch 'main' of https://github.com/singhtaru/GroqChat
+
+[33mcommit c386dfce266f4dc2807452e968c69f6cee2136ed[m
+Author: Taru <taru93858@gmail.com>
+Date:   Wed Jun 18 20:04:34 2025 +0530
+
+    updates
+
+[33mcommit bebc861c1ba5fa22dbf4f4aa24334c13569cfed5[m
+Author: singhtaru <taru93858@gmail.com>
+Date:   Wed Jun 18 20:01:14 2025 +0530
+
+    Initial commit
+
+[33mcommit 8afb69207f095be663d05bf764a7362a292f755f[m
+Author: Taru <taru93858@gmail.com>
+Date:   Wed Jun 18 20:00:17 2025 +0530
+
+    initial
