@@ -1,5 +1,3 @@
-Here's a clean and professional `README.md` for your **simple chatbot using Groq and Streamlit**. You can customize project name, screenshots, links, and instructions as needed:
-
 ---
 
 # 🧠 ChatGPT-Powered Chatbot with Groq & Streamlit
