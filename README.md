@@ -2,13 +2,13 @@
 
 # 🧠 ChatGPT-Powered Chatbot with Groq & Streamlit
 
-A simple and lightweight chatbot built using [Groq's LLaMA 3.3 70B model](https://groq.com) and [Streamlit](https://streamlit.io/) for an interactive frontend. This chatbot can handle general queries and assist users through a conversational interface.
+A simple and lightweight chatbot built using [Groq's llama-3.1-8b-instant](https://groq.com) and [Streamlit](https://streamlit.io/) for an interactive frontend. This chatbot can handle general queries and assist users through a conversational interface.
 
 ---
 
 ## 🚀 Features
 
-* 🤖 Chat with Groq’s high-speed LLM (LLaMA 3.3 70B)
+* 🤖 Chat with Groq’s high-speed LLM (llama-3.1-8b-instant)
 * ⚡ Fast, streaming responses
 * 🌐 Simple and interactive UI with Streamlit
 * 🔒 Secure key management using `.env`
@@ -17,8 +17,7 @@ A simple and lightweight chatbot built using [Groq's LLaMA 3.3 70B model](https:
 
 ## 🖼️ Preview
 
-![Chatbot UI Screenshot](link-to-screenshot.png)
-*(Update with your own image or remove if not needed)*
+!![Chatbot UI](image.png)
 
 ---
 
@@ -81,7 +80,6 @@ communication
 
 * [Groq API](https://console.groq.com/)
 * [Streamlit](https://streamlit.io/)
-* \[OpenAI-style prompt formatting]
 
 ---
 
@@ -91,11 +89,5 @@ communication
 * Integrate other LLMs (Claude, Gemini, OpenRouter)
 * Voice input/output support
 * Deploy on Streamlit Cloud or Hugging Face Spaces
-
----
-
-## 📄 License
-
-MIT License. Feel free to use and modify!
 
 ---
