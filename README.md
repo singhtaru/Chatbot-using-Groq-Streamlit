@@ -11,13 +11,13 @@ A simple and lightweight chatbot built using [Groq's llama-3.1-8b-instant](https
 * 🤖 Chat with Groq’s high-speed LLM (llama-3.1-8b-instant)
 * ⚡ Fast, streaming responses
 * 🌐 Simple and interactive UI with Streamlit
-* 🔒 Secure key management using `.env`
+* 🧠 Maintains chat history in-session
 
 ---
 
 ## 🖼️ Preview
 
-!![Chatbot UI](image.png)
+![img_1.png](img_1.png)
 
 ---
 
@@ -85,7 +85,6 @@ communication
 
 ## 📌 Future Improvements
 
-* Add memory or session-based context
 * Integrate other LLMs (Claude, Gemini, OpenRouter)
 * Voice input/output support
 * Deploy on Streamlit Cloud or Hugging Face Spaces
